@@ -1,4 +1,4 @@
-[//]: # '[![Header](https://raw.githubusercontent.com/hagenderouen/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)'
+[//]: # '[![Header](https://raw.githubusercontent.com/Leticia-Mendiola/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)'
 
 ## Leticia Mendiola
 
